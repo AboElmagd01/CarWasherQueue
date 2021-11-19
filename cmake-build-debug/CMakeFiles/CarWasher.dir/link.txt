@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/CarWasher.dir/main.c.o CMakeFiles/CarWasher.dir/stack.c.o CMakeFiles/CarWasher.dir/queue.c.o  -o CarWasher 

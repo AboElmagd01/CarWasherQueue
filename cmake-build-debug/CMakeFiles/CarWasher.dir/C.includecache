@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/abdelrhman/CLionProjects/CarWasher/global.h
+
+/home/abdelrhman/CLionProjects/CarWasher/main.c
+stdio.h
+-
+stack.h
+/home/abdelrhman/CLionProjects/CarWasher/stack.h
+queue.h
+/home/abdelrhman/CLionProjects/CarWasher/queue.h
+global.h
+/home/abdelrhman/CLionProjects/CarWasher/global.h
+
+/home/abdelrhman/CLionProjects/CarWasher/queue.h
+global.h
+/home/abdelrhman/CLionProjects/CarWasher/global.h
+
+/home/abdelrhman/CLionProjects/CarWasher/stack.h
+global.h
+/home/abdelrhman/CLionProjects/CarWasher/global.h
+string.h
+-
+
